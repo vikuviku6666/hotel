@@ -1,5 +1,5 @@
 package se.vinay.hotel.service;
 
-public class BookedRoomServiceImpl
+public class BookedRoomServiceImpl implements IBookedRoomService
 {
 }
